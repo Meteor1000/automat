@@ -6,6 +6,11 @@ public class Fabryka {
         Zwierze zwierze = FabrykaZwierzat.getZwierze("miau");
         System.out.println(zwierze.getClass().toString());
 
+
+
+
+
+
     }
 }
 
